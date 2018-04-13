@@ -10,6 +10,9 @@ and started to extract useful bits (names, biographical information)
 into separate files.
 Then I started the process of reconciling them with Wikidata in OpenRefine.
 
+(More detailed descriptions of these steps are available in the commit messages –
+see the [log](../../commits).)
+
 ## Current status
 
 There’s an OpenRefine project in the repository with all the members of the Bundestag.
