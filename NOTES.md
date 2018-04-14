@@ -63,3 +63,10 @@ $ jq -c '.NAMEN.NAME | arrays' stammdaten.json | wc -l
     ]
   }
 ```
+
+## Reference
+
+During reconciliation, I started adding some data from the file manually.
+For this, I created the item [Q51850225](http://www.wikidata.org/entity/Q51850225)
+and used it in references (“stated in”; “retrieved: 2018-04-13” (the date when I downloaded the file)).
+That’s not to say that this is the final form those references should take, of course…
