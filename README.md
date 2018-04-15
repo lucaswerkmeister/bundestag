@@ -17,7 +17,7 @@ see the [log](../../commits).)
 
 There’s an OpenRefine project in the repository with all the members of the Bundestag.
 3197 were matched automatically to a Wikidata item,
-leaving ~876~ ~853~ ~852~ ~800~ ~750~ ~700~ ~500~ 400 to be matched manually –
+leaving ~876~ ~853~ ~852~ ~800~ ~750~ ~700~ ~500~ ~400~ 200 to be matched manually –
 either they have more than one possible match (select the right one),
 or no match was found (try to locate one manually or create a new item).
 
