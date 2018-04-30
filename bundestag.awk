@@ -18,3 +18,8 @@ function iso2qs(date) {
 function de2qs(date) {
   return iso2qs(de2iso(date))
 }
+
+BEGIN {
+  dumpItem = "Q51850225"
+  dumpRetrievedDate = "2018-04-13"
+}
