@@ -3,6 +3,9 @@
 The Bundestag (the German parliament) published basic information („Stammdaten“) of all its members,
 and I’m trying to import it into Wikidata.
 
+This import is also tracked and discussed on Wikidata –
+see [Wikidata:Dataset Imports/Basic data about the members of the Bundestag](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports/Basic_data_about_the_members_of_the_Bundestag).
+
 ## Already done
 
 I converted the data into a more useful format (JSON instead of XML)
