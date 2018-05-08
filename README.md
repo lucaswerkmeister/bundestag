@@ -21,15 +21,19 @@ since otherwise the extra data would lower OpenRefine’s confidence in the matc
 and the remaining 876 were matched manually to Wikidata items by @akaes and me.
 The result was the file [IDs](IDs) containing a mapping from the ID in the Bundestag’s database to the Wikidata item ID.
 
+After that, the dates of birth and dates of death of all MdBs were imported into Wikidata,
+using QuickStatements’ CSV mode.
+
 (More detailed descriptions of these steps are available in the commit messages –
 see the [log](../../commits).)
 
 ## Current status
 
 We have a tab-separated file from Bundestag ID to Wikidata item ID, plus some supplementary information.
+Dates of birth and death have been imported, everything else remains to be done.
 
 ## To be done
 
-Decide what to export and how to do it…
-I haven’t planned far ahead here to be honest,
-I’m just sure that the above steps will be necessary no matter how we proceed afterwards.
+Decide what to export and how to do it.
+Matching places of birth/death or other biographical information sounds like a lot of hassle,
+so I think I’d prefer importing the parliamentary terms next.
